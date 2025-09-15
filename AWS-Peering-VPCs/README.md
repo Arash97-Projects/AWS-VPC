@@ -18,7 +18,7 @@ A concise, high‑level but detailed README describing how to peer two AWS VPCs 
 
 ## 🏗️ Architecture
 
-<img width="940" height="661" alt="Screenshot 2025-09-15 144109" src="https://github.com/user-attachments/assets/e9871fa1-2b82-4e0d-b0d0-5af85532f70e" />
+<img width="940" height="500" alt="Screenshot 2025-09-15 144109" src="https://github.com/user-attachments/assets/47ac2bc0-6186-4c03-b284-1f2a28dfd244" />
 
 
 ---
