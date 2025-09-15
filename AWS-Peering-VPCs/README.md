@@ -18,18 +18,8 @@ A concise, high‑level but detailed README describing how to peer two AWS VPCs 
 
 ## 🏗️ Architecture
 
-```
-[ Internet ]
-     |
-  IGW VPC-A                     IGW VPC-B
-  (10.0.0.0/16)                  (10.1.0.0/16)
-     |                              |
-  subnet-1 (10.0.1.0/24)      subnet-2 (10.1.1.0/24)
-     |                              |
-  EC2-A (public+private)     EC2-B (public+private)
-     \_________pcx-xxxxx___________/
-            VPC Peering
-```
+<img width="940" height="661" alt="Screenshot 2025-09-15 144109" src="https://github.com/user-attachments/assets/e9871fa1-2b82-4e0d-b0d0-5af85532f70e" />
+
 
 ---
 
