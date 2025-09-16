@@ -1,9 +1,3 @@
-# AWS VPC Peering — Step‑by‑Step Guide
-
-A concise, high‑level but detailed README describing how to peer two AWS VPCs (each with a public subnet and one EC2 instance). The peering connection is configured to allow **SSH (TCP/22)** and **ICMP (ping)** between the EC2 instances.
-
----
-
 ## 📘 Overview
 
 * **VPC A CIDR**: `10.0.0.0/16`
